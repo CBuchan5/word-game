@@ -5,10 +5,10 @@ import java.util.Random;
 public class WordChooser {
     private Random random;
     private static final String[] DICTIONARY = {
-        "MAKERS",
-        "CANDIES",
-        "DEVELOPER",
-        "LONDON"
+        "Mercury",
+        "Venus",
+        "Earth",
+        "Mars"
          };
        
          public WordChooser(Random random) {
